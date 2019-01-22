@@ -23,7 +23,7 @@ Todos
       {
         id:2,
         title:'Todo Tow',
-        completed:false
+        completed:true
       },
       {
         id:3,
