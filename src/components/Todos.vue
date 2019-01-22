@@ -13,11 +13,11 @@
 <script>
 import TodoItem from './TodoItem.vue'
 export default{
-  name:'Todos',
+  name:"Todos",
   components:{
     TodoItem
   },
-  props:['todos']
+  props:["todos"]
 }
 
 </script>
